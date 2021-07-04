@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'hiii chào chung !',
     introDesc: `vui thôi đừng vui quá 
     gửi cái này cho chung nè 😜😜!!
-   
+   😉😉😉😉😉😉😉😉😉😉😉😉😉
   
     btnIntro: 'hehe',
     title: 't có 1 điều ước nhoe nhắn thoiii 😙',
